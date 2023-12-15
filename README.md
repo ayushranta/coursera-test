@@ -1,4 +1,4 @@
 # coursera-test
 Coursera test reposetory
 <br>
-Author-Ayush ranta
+Author-Ayush (Varun ranta)
